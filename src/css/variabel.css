@@ -1,0 +1,14 @@
+:root {
+  --color-primary: #495057;
+  --color-secondery: #9f6a33;
+  --color-background: #dbe4ff;
+  --color-text: #ffffff;
+  --color-button: #59160f;
+
+  /* --------------------- */
+  --spacing-small: 0.5rem;
+  --spacing-medium: 1rem;
+  --spacing-large: 1.5rem;
+  --spacing-xlarge: 2rem;
+  --spacing-xxlarge: 3rem;
+}
